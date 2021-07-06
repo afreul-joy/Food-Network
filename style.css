@@ -145,7 +145,7 @@ h2 {
   height: 30vh;
  
 }
-.footer {
+.footer{
   display: flex;
   flex-direction: column;
   align-items: center;
