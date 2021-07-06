@@ -125,7 +125,7 @@ h2 {
 .form-section{
   background:rgb(228, 179, 151);
   width:20%;
-  height: 20vh;
+  height: 30vh;
   border-radius:5px;
   margin: auto;
   margin-bottom: 2% ;
@@ -145,7 +145,7 @@ h2 {
   height: 30vh;
  
 }
-.footer {
+.footer{
   display: flex;
   flex-direction: column;
   align-items: center;
