@@ -91,7 +91,7 @@ h2 {
 /* Four-section  */
 .four-section {
   width: 100vw;
-  height: 50vh;
+  height: 40vh;
   position: relative;
 }
 .box {
@@ -121,19 +121,22 @@ h2 {
 }
 
 /* Six Form section  */
+
 .form-section{
-  text-align: center;
-}
-.form-box{
-  background:white;
-  width:24%;
+  background:rgb(228, 179, 151);
+  width:20%;
+  height: 20vh;
   border-radius:5px;
   margin: auto;
+  margin-bottom: 2% ;
   padding:4%; 
-  border: #292929 4px solid; 
+  border: #292929 2px solid; 
+  text-align: center;
 }
-
-
+.form-div{
+  padding: 5%;
+  margin-bottom: 4%;
+}
 
 /* footer section  */
 .footer-section {
