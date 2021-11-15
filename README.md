@@ -4,9 +4,9 @@ It's Food related site
 
 
 
-## Demo
+## Live Site Link
 
-https://afreul-joy.github.io/Food-Network/
+https://food-network-net.netlify.app/
 
   
 ## Tech Stack
